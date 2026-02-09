@@ -1,0 +1,15 @@
+export const SHEET_ID = '1fJVmm7i5g1IfOLHDTByRM-W01pWIF46k7aDOYsH4UKA';
+export const SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbzCxPqker3JsD9YKVDeTY5zOqmguQM10hpRAvUbjlEe3PUOHI8uScpLvAMQ4QvrSu7x/exec';
+
+export const GOALS = {
+  VENTAS_TOTAL: 2195176117,
+  RENOVACION: 1225673502,
+  INCREMENTAL: 969002614
+};
+
+export const DEFAULTS = {
+  PCT_INDIRECTOS: 37,
+  PCT_COSTO_LABORAL: 45,
+  GASTOS_OPERATIVOS: 46539684.59,
+  MARGEN_OBJETIVO: 25
+};
